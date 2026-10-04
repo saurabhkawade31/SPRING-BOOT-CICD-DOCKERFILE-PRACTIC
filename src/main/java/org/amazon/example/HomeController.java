@@ -38,6 +38,6 @@ public class HomeController {
      */
     @GetMapping("/")
     public String home() {
-        return "Spring Boot REST API is running! Visit /Welcome to devops practic nd cicd pipeline.";
+        return "Spring Boot REST API is running! Visit /HI CICD PIPELINE CHI TESTING CHALU AHE ...............";
     }
 }
