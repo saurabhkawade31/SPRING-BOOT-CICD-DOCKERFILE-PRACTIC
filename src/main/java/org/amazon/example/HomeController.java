@@ -38,6 +38,6 @@ public class HomeController {
      */
     @GetMapping("/")
     public String home() {
-        return "Spring Boot REST API is running! Visit /HI CICD PIPELINE CHI TESTING CHALU AHE ...............";
+        return "Spring Boot REST API is running! Visit /cicd pro and docker push image .....................--------------";
     }
 }
